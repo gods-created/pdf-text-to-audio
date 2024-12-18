@@ -1,0 +1,5 @@
+pypdf
+asyncio
+loguru
+gtts
+langdetect
